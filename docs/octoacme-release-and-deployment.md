@@ -28,6 +28,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Trigger incident response and notify on-call
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
+- **Security incidents**: the Security Lead owns communication and response; escalate immediately per the [Risk Management & Communication Guide](octoacme-risks-and-communication.md).
 
 ## Release Notes Template
 - Release name / number:
@@ -36,3 +37,19 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Responsibility Summary
+
+| Activity | Accountable |
+|---|---|
+| Release readiness sign-off | Release Manager |
+| Deployment execution | Release Manager |
+| Release notes | Technical Writer |
+| Security scan approval | Security Lead |
+| Customer communications | Customer Success Lead |
+
+For a full breakdown, see the [Ownership & RACI Matrix](octoacme-ownership-and-raci.md).
+
+## Related Templates
+- [Release Readiness Checklist](templates/octoacme-release-readiness-checklist.md) — complete before every production deployment
+- [Role Handoff Checklist](templates/octoacme-role-handoff-checklist.md) — use when Release Manager or other roles rotate

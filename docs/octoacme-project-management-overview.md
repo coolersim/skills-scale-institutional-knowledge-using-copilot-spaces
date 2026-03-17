@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Release Manager: owns the end-to-end release process and deployment safety.
+- Security Lead: manages security reviews, risk assessment, and incident response.
+- Technical Writer: maintains documentation accuracy and accessibility.
+- Stakeholder Representative: voices key business stakeholder needs and priorities.
+- Customer Success Lead: tracks adoption and manages customer onboarding.
+
+For detailed descriptions of each role's responsibilities and handoffs, see [Roles & Personas](octoacme-roles-and-personas.md).
+For role ownership across lifecycle phases, see the [Ownership & RACI Matrix](octoacme-ownership-and-raci.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

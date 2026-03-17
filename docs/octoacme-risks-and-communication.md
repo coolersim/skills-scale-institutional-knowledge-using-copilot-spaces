@@ -39,4 +39,10 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify the **Security Lead** immediately; the Security Lead owns incident communication and coordinates with the PM and Stakeholder Representative.
+
+## Related Templates & Guides
+- [Risk Register Template](templates/octoacme-risk-register-template.md) — use for ongoing risk tracking and weekly updates
+- [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md) — includes risks & blockers section for stakeholder reporting
+- [Ownership & RACI Matrix](octoacme-ownership-and-raci.md) — clarifies risk and escalation ownership by role
+- [Roles & Personas](octoacme-roles-and-personas.md) — see Security Lead, PM, and Stakeholder Representative for escalation participants

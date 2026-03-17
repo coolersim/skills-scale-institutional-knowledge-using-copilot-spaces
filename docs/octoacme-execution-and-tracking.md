@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Templates & Guides
+- [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md) — copy and fill out each week for stakeholder reporting
+- [Role Handoff Checklist](templates/octoacme-role-handoff-checklist.md) — use whenever a key project role transitions between individuals
+- [Ownership & RACI Matrix](octoacme-ownership-and-raci.md) — clarifies who is responsible for each execution activity
